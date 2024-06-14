@@ -1,7 +1,7 @@
 # Bufftacular
 Description  
 
-Bufftacular is a dynamic and interactive web application designed to help fitness enthusiasts generate personalized workout plans. Leveraging the latest in React development, this app allows users to select specific muscle groups and fitness goals, generating tailored workouts to meet individual needs.
+Bufftacular is an interactive React web app styled with Tailwind CSS, enabling users to create personalized workout plans by selecting muscle groups and fitness goals.
 
 
 ## Installation
@@ -12,10 +12,10 @@ Install my-project with npm
   git clone https://github.com/Anurag2124/bufftacular.git
   cd bufftacular
   npm install
-  npm run dev
+  npm start
 ```
     
-## Demo
+## Live Demo
 
-Insert gif or link to demo
+Check out the live version of Bufftacular [here](https://bufftacular.netlify.app/).
 
