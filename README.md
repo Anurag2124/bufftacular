@@ -1,8 +1,21 @@
-# React + Vite
+# Bufftacular
+Description  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bufftacular is a dynamic and interactive web application designed to help fitness enthusiasts generate personalized workout plans. Leveraging the latest in React development, this app allows users to select specific muscle groups and fitness goals, generating tailored workouts to meet individual needs.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone https://github.com/Anurag2124/bufftacular.git
+  cd bufftacular
+  npm install
+  npm run dev
+```
+    
+## Demo
+
+Insert gif or link to demo
+
